@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, Nice to see you.</h1>
 
-Im **Marc Samuel Canales, 19 years old** also known as **MarcCode2003**, and I'm a **Beginner in GitHub** and a 2nd year College Student in **Cvsu Naic**. I'd want to be Software Engineer someday. My main objective is to expand my knowledge in Progamming.<br><br>
+I'm **Marc Samuel Canales, 19 years old** also known as **MarcCode2003**, and I'm a **Beginner in GitHub** and a 2nd year College Student in **Cvsu Naic**. I'd want to be Software Engineer someday. My main objective is to expand my knowledge in Progamming.<br><br>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2349F707&lines=I'm+Marc+Samuel+Canales,+19+yo.;Front-end+Web+Developer;Cyber+Security+Beginner)](https://git.io/typing-svg)
 
