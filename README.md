@@ -13,7 +13,7 @@ I'm **Marc Samuel Canales, 20 years old** also known as **MarcCode2003**, and I'
 
 - 💼 n/a
 - 🔍 I’m looking for connections in <strong>Web Development, UI/UX, and Cyber Security</strong> Industry especially around <strong>Japan</strong>.
-- 💬 Feel free to discuss with me about <strong>Cyber Security, Web Development.
+- 💬 Feel free to discuss with me about <strong>Web Development, UI/UX, and Cyber Security</strong>.
 - 👀 See my [Personal Portfolio](https://MarcCode2003.github.io/portfolio/) to get more info
 
 ### Tools I work upon : 🛠
