@@ -9,7 +9,7 @@ I'm **Marc Samuel Canales, 20 years old** also known as **MarcCode2003**, and I'
 <a href="mailto: marcsamuelcanales.26@gmail.com">
 <img src="https://img.shields.io/badge/-marcsamuelcanales.26gmail.com-7B83EB?&style=for-the-badge&logo=Microsoft-outlook&logoColor=white" ></a>  <a  href="https://www.instagram.com/maaku0223/">   <img src="https://img.shields.io/badge/@maaku0223-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>  
 
-### Current Status Quo:
+### Current Status:
 
 - 💼 n/a
 - 🔍 I’m looking for connections in <strong>Web Development, UI/UX, and Cyber Security</strong> Industry especially around <strong>Japan</strong>.
