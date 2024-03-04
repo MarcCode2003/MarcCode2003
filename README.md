@@ -22,9 +22,8 @@ I'm **Marc Samuel Canales, 21 years old** also known as **MarcCode2003**, and I'
 
 
 -----
-Credits: [carlcastanas](https://github.com/carlcastanas)
 
-Last Edited on: 01/21/2024
+Last Edited on: 03/4/2024
 
 ### Profile Visits:
 
