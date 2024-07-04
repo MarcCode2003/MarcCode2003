@@ -4,7 +4,7 @@ I'm **Marc Samuel Canales, 21 years old** also known as **MarcCode2003**, and I'
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2349F707&lines=I'm+Marc+Samuel+Canales,+21+yo.;Front-end+Web+Developer;Back-end+Web+Developer;UI/UX+Designer+Beginner;Cyber+Security+Beginner)](https://git.io/typing-svg)
 
-### Socials and How to Reach Me
+### Socials and How to Reach Me:
 - [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/maaku0223)
 - [![Gmail](https://img.shields.io/badge/Gmail-marcsamuelcanales.26%40gmail.com-%23EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:marcsamuelcanales.26@gmail.com)
 - [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/maaku0223/)
