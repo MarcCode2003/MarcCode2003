@@ -4,14 +4,15 @@ I'm **Marc Samuel Canales, 21 years old** also known as **MarcCode2003**, and I'
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2349F707&lines=I'm+Marc+Samuel+Canales,+21+yo.;Front-end+Web+Developer;Back-end+Web+Developer;UI/UX+Designer+Beginner;Cyber+Security+Beginner)](https://git.io/typing-svg)
 
-[![](https://img.shields.io/badge/Gmail-marcsamuelcanales.26@gmail.com-red)](mailto:marcsamuelcanales.26@gmail.com)
-### How to reach me: 
-<a href="mailto: marcsamuelcanales.26@gmail.com">
-<img src="https://img.shields.io/badge/-marcsamuelcanales.26gmail.com-7B83EB?&style=for-the-badge&logo=Microsoft-outlook&logoColor=white" ></a>  <a  href="https://www.instagram.com/maaku0223/">   <img src="https://img.shields.io/badge/@maaku0223-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>  
+### Socials and How to Reach Me
+- [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/maaku0223)
+- [![Gmail](https://img.shields.io/badge/Gmail-marcsamuelcanales.26%40gmail.com-%23EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:marcsamuelcanales.26@gmail.com)
+- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/maaku0223/)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/marc-samuel-canales-b87944317/)
 
 ### Current Status:
 
-- 💼 n/a
+- 💼 Looking for internship/ojt.
 - 🔍 I’m looking for connections in <strong>Web Development, UI/UX, and Cyber Security</strong> Industry especially around <strong>Japan</strong>.
 - 💬 Feel free to discuss with me about <strong>Web Development, UI/UX, and Cyber Security</strong>.
 - 👀 See my [Personal Portfolio](https://MarcCode2003.github.io/portfolio/) to get more info
