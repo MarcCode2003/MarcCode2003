@@ -30,11 +30,9 @@ Let's code, learn, and grow together!
 
 -----
 
-### GitHub Stats:
+### Most Used Languages
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MarcCode2003&show_icons=true&layout=compact&langs_count=8&bg_color=000000" alt="GitHub Stats"/>
-</p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcCode2003&hide=css,html&layout=compact)
 
 -----
 
