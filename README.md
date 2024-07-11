@@ -1,7 +1,13 @@
 
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, Nice to see you.</h1>
 
-I'm **Marc Samuel Canales, 21 years old** also known as **MarcCode2003**, and I'm a **Beginner in GitHub** and a 3rd year College Student in **Cavite State University**. I want to be Software Engineer someday. My main objective is to expand my knowledge in Progamming.<br><br>
+Hello, World! I'm Marc Samuel Canales, aka MarcCode2003
+
+As a 21-year-old tech enthusiast and 3rd-year College Student at Cavite State University, I'm excited to embark on a journey to become a Software Engineer. With a passion for coding and a thirst for knowledge, I'm committed to expanding my skills in programming.
+
+As a Beginner in GitHub, I'm eager to learn from the community, share my experiences, and collaborate on projects that inspire me. My ultimate goal is to become a proficient programmer, and I'm ready to put in the effort to make it happen.
+
+Let's code, learn, and grow together!
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2349F707&lines=I'm+Marc+Samuel+Canales,+21+yo.;Front-end+Web+Developer;Back-end+Web+Developer;UI/UX+Designer+Beginner;Cyber+Security+Beginner)](https://git.io/typing-svg)
 
