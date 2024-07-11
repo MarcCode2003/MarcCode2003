@@ -25,8 +25,7 @@ I'm **Marc Samuel Canales, 21 years old** also known as **MarcCode2003**, and I'
 ### GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MarcCode2003&show_icons=true&theme=dark" alt="GitHub Stats"/> 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MarcCode2003&theme=dark" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MarcCode2003&show_icons=true&layout=compact&langs_count=8&bg_color=000000" alt="GitHub Stats"/>
 </p>
 
 -----
