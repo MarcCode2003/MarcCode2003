@@ -30,12 +30,6 @@ Let's code, learn, and grow together!
 
 -----
 
-### Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcCode2003&hide=css,html&layout=compact)
-
------
-
 ### Profile Visits:
 
 ![Visitor Count](https://profile-counter.glitch.me/{MarcCode2003}/count.svg)
