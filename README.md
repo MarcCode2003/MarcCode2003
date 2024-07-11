@@ -30,8 +30,6 @@ I'm **Marc Samuel Canales, 21 years old** also known as **MarcCode2003**, and I'
 
 -----
 
-Last Edited on: 07/5/2024
-
 ### Profile Visits:
 
 ![Visitor Count](https://profile-counter.glitch.me/{MarcCode2003}/count.svg)
