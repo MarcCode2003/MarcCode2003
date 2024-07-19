@@ -3,7 +3,7 @@
 
 Hello, World! I'm Marc Samuel Canales, aka MarcCode2003
 
-As a 21-year-old tech enthusiast and 3rd-year College Student at Cavite State University, I'm excited to embark on a journey to become a Software Engineer. With a passion for coding and a thirst for knowledge, I'm committed to expanding my skills in programming.
+As a 21-year-old tech enthusiast and incoming 4th-year College Student at Cavite State University, I'm excited to embark on a journey to become a Software Engineer. With a passion for coding and a thirst for knowledge, I'm committed to expanding my skills in programming.
 
 As a Beginner in GitHub, I'm eager to learn from the community, share my experiences, and collaborate on projects that inspire me. My ultimate goal is to become a proficient programmer, and I'm ready to put in the effort to make it happen.
 
