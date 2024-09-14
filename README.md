@@ -19,7 +19,7 @@ Let's code, learn, and grow together!
 
 ### Current Status:
 
-- 💼 Looking for internship/ojt/freelance.
+- 💼 Looking for internship/ojt/freelance/part-time.
 - 🔍 I’m looking for connections in <strong>Web Development, UI/UX, and Cyber Security</strong> Industry especially around <strong>Japan</strong>.
 - 💬 Feel free to discuss with me about <strong>Web Development, UI/UX, and Cyber Security</strong>.
 - 👀 See my [Personal Portfolio](https://MarcCode2003.github.io/portfolio/) to get more info
