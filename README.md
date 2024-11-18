@@ -9,13 +9,13 @@ As a Beginner in GitHub, I'm eager to learn from the community, share my experie
 
 Let's code, learn, and grow together!
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2349F707&lines=I'm+Marc+Samuel+Canales,+21+yo.;Front-end+Web+Developer;Back-end+Web+Developer;UI/UX+Designer+Beginner;Pentester)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2349F707&lines=I'm+Marc+Samuel+Canales,+21+yo.;Front-end+Web+Developer;Back-end+Web+Developer;UI/UX+Designer+Beginner;Penetration+Tester;Quality+Assurance+Beginner)](https://git.io/typing-svg)
 
 ### Socials and How to Reach Me:
-- [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/maaku0223)
+- [![Facebook](https://img.shields.io/badge/Marc_Samuel_Canales-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/maaku0223)
 - [![Gmail](https://img.shields.io/badge/Gmail-marcsamuelcanales.26%40gmail.com-%23EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:marcsamuelcanales.26@gmail.com)
-- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/maaku0223/)
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/marc-samuel-canales-b87944317/)
+- [![Instagram](https://img.shields.io/badge/maaku0223-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/maaku0223/)
+- [![LinkedIn](https://img.shields.io/badge/Marc_Samuel_Canales-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/marc-samuel-canales-b87944317/)
 
 ### Current Status:
 
