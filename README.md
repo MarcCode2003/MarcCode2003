@@ -14,8 +14,8 @@ Hello, World! I'm Marc Samuel Canales, aka MarcCode2003. As a 21-year-old tech e
 ### Current Status:
 
 - 💼 Looking for Internship or OJT(free or paid)/Freelance/Part-time.
-- 🔍 I’m looking for connections in <strong>Web Development, UI/UX, and Cyber Security</strong> Industry especially around <strong>Japan</strong>.
-- 💬 Feel free to discuss with me about <strong>Web Development, UI/UX, and Cyber Security</strong>.
+- 🔍 I’m looking for connections in <strong>Web Development, UI/UX, and Cybersecurity</strong> Industry especially around <strong>Japan</strong>.
+- 💬 Feel free to discuss with me about <strong>Web Development, UI/UX, and Cybersecurity</strong>.
 - 👀 See my [Personal Portfolio](https://MarcCode2003.github.io/portfolio/) to get more info
 
 -----
