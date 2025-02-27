@@ -1,9 +1,9 @@
 
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, Nice to see you.</h1>
 
-Hello, World! I'm Marc Samuel Canales, aka MarcCode2003. As a 21-year-old tech enthusiast and 4th-year College Student at Cavite State University, I'm excited to embark on a journey to become a Software Engineer. With a passion for coding and thirst for knowledge, I'm committed to expanding my skills in programming. Let's code, learn, and grow together!
+Hello, World! I'm Marc Samuel Canales, aka MarcCode2003. As a 22-year-old tech enthusiast and 4th-year College Student at Cavite State University, I'm excited to embark on a journey to become a Software Engineer. With a passion for coding and thirst for knowledge, I'm committed to expanding my skills in programming. Let's code, learn, and grow together!
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2349F707&lines=I'm+Marc+Samuel+Canales,+21+yo.;Front-end+Web+Developer;Back-end+Web+Developer;UI/UX+Designer+Beginner;Penetration+Tester;Quality+Assurance+Beginner)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2349F707&lines=I'm+Marc+Samuel+Canales,+22+yo.;Front-end+Web+Developer;Back-end+Web+Developer;UI/UX+Designer+Beginner;Penetration+Tester;Quality+Assurance+Beginner)](https://git.io/typing-svg)
 
 ### Socials and How to Reach Me:
 - [![Facebook](https://img.shields.io/badge/Facebook-Marc%20Samuel%20Canales-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/maaku0223)
