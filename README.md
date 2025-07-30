@@ -31,6 +31,6 @@ Hello, World! I'm Marc Samuel Canales, aka MarcCode2003. As a 22-year-old tech e
 
 ### Profile Visits:
 
-<img src="https://visitor-badge.laobi.icu/badge?page_id=MarcCode2003.MarcCode2003" alt="visitors"/>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=MarcCode2003.MarcCode2003" alt="Visitors"/>
 
 
