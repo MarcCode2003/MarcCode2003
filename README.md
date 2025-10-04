@@ -5,6 +5,13 @@ Hello, World! I'm Marc Samuel Canales, aka MarcCode2003. As a 22-year-old tech e
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2349F707&lines=I'm+Marc+Samuel+Canales,+22+yo.;Front-end+Web+Developer;Back-end+Web+Developer;UI/UX+Designer+Beginner;Penetration+Tester;Quality+Assurance+Beginner)](https://git.io/typing-svg)
 
+![Quotes](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=✨%20Constant%20Learning%20is%20the%20Key%20to%20Success%20✨&fontSize=20&animation=fadeIn&fontColor=fff)  
+
+![Quotes](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=🚀%20Learning%20is%20the%20greatest%20weapon%20a%20programmer%20can%20have%20🚀&fontSize=20&animation=fadeIn&fontColor=fff)  
+
+![Quotes](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=🔥%20Losing%20hope%20is%20not%20an%20option%20🔥&fontSize=20&animation=fadeIn&fontColor=fff)
+
+
 ### Socials and How to Reach Me:
 - [![Facebook](https://img.shields.io/badge/Facebook-Marc%20Samuel%20Canales-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/maaku0223)
 - [![Gmail](https://img.shields.io/badge/Gmail-marcsamuelcanales.26%40gmail.com-%23EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:marcsamuelcanales.26@gmail.com)
