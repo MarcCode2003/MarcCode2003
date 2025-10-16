@@ -5,22 +5,12 @@ Hello, World! I'm Marc Samuel Canales, aka MarcCode2003. As a 22-year-old tech e
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2349F707&lines=I'm+Marc+Samuel+Canales,+22+yo.;Front-end+Web+Developer;Back-end+Web+Developer;UI/UX+Designer+Beginner;Penetration+Tester;Quality+Assurance+Beginner)](https://git.io/typing-svg)
 
-<!-- Quote 1 -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=transparent&fontColor=ffffff&fontAlignY=40&height=120&text=✨%20Constant%20Learning%20is%20the%20Key%20to%20Success%20✨&fontSize=22&desc=Keep%20moving%20forward%20with%20curiosity.&descAlignY=65&descAlign=50">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=000000&fontAlignY=40&height=120&text=✨%20Constant%20Learning%20is%20the%20Key%20to%20Success%20✨&fontSize=22&desc=Keep%20moving%20forward%20with%20curiosity.&descAlignY=65&descAlign=50">
-</picture>
+![Quote 1](https://capsule-render.vercel.app/api?type=transparent&fontColor=888888&fontAlignY=40&height=120&text=✨%20Constant%20Learning%20is%20the%20Key%20to%20Success%20✨&fontSize=22&desc=Keep%20moving%20forward%20with%20curiosity.&descAlignY=65&descAlign=50)
 
-<!-- Quote 2 -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=transparent&fontColor=ffffff&fontAlignY=40&height=120&text=🚀%20Learning%20is%20the%20Greatest%20Weapon%20a%20Programmer%20Can%20Have%20🚀&fontSize=22&desc=Grow%20your%20skills%20one%20line%20at%20a%20time.&descAlignY=65&descAlign=50">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=000000&fontAlignY=40&height=120&text=🚀%20Learning%20is%20the%20Greatest%20Weapon%20a%20Programmer%20Can%20Have%20🚀&fontSize=22&desc=Grow%20your%20skills%20one%20line%20at%20a%20time.&descAlignY=65&descAlign=50">
-</picture>
+![Quote 2](https://capsule-render.vercel.app/api?type=transparent&fontColor=888888&fontAlignY=40&height=120&text=🚀%20Learning%20is%20the%20Greatest%20Weapon%20a%20Programmer%20Can%20Have%20🚀&fontSize=22&desc=Grow%20your%20skills%20one%20line%20at%20a%20time.&descAlignY=65&descAlign=50)
 
-<!-- Quote 3 -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=transparent&fontColor=ffffff&fontAlignY=40&height=120&text=🔥%20Losing%20Hope%20is%20Not%20an%20Option%20🔥&fontSize=22&desc=Stay%20resilient%20and%20keep%20the%20flame%20alive.&descAlignY=65&descAlign=50">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=000000&fontAlignY=40&height=120&text=🔥%20Losing%20Hope%20is%20Not%20an%20Option%20🔥&fontSize=22&desc=Stay%20resilient%20and%20keep%20the%20flame%20alive.&descAlignY=65&descAlign=50">
+![Quote 3](https://capsule-render.vercel.app/api?type=transparent&fontColor=888888&fontAlignY=40&height=120&text=🔥%20Losing%20Hope%20is%20Not%20an%20Option%20🔥&fontSize=22&desc=Stay%20resilient%20and%20keep%20the%20flame%20alive.&descAlignY=65&descAlign=50)
+desc=Stay%20resilient%20and%20keep%20the%20flame%20alive.&descAlignY=65&descAlign=50">
 </picture>
 
 ### Socials and How to Reach Me:
