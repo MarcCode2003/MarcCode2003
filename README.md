@@ -1,9 +1,9 @@
 
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, Nice to see you.</h1>
 
-Hello, World! I'm Marc Samuel Canales, aka MarcCode2003. As a 22-year-old tech enthusiast and 4th-year College Student at Cavite State University, I'm excited to embark on a journey to become a Software Engineer. With a passion for coding and thirst for knowledge, I'm committed to expanding my skills in programming. Let's code, learn, and grow together!
+Hello, World! I'm Marc Samuel Canales, aka MarcCode2003. As a 23-year-old tech enthusiast and 4th-year College Student at Cavite State University, I'm excited to embark on a journey to become a Software Engineer. With a passion for coding and thirst for knowledge, I'm committed to expanding my skills in programming. Let's code, learn, and grow together!
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2349F707&lines=I'm+Marc+Samuel+Canales,+22+yo.;Front-end+Web+Developer;Back-end+Web+Developer;UI/UX+Designer+Beginner;Penetration+Tester;Quality+Assurance+Beginner)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2349F707&lines=I'm+Marc+Samuel+Canales,+23+yo.;Front-end+Web+Developer;Back-end+Web+Developer;UI/UX+Designer+Beginner;Penetration+Tester;Quality+Assurance+Beginner)](https://git.io/typing-svg)
 
 
 ![Quote 1](https://capsule-render.vercel.app/api?type=transparent&fontColor=888888&fontAlignY=40&height=120&text=✨%20Constant%20Learning%20is%20the%20Key%20to%20Success%20✨&fontSize=22&desc=Keep%20moving%20forward%20with%20curiosity.&descAlignY=65&descAlign=50)
