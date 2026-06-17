@@ -28,7 +28,7 @@
 
 ---
 
-### 💻 System Specs & Technical Catalog
+### 💻 Technical Skills & Tool Inventory
 
 | Layer | Technologies & Tools |
 | :--- | :--- |
