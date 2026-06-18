@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://MarcCode2003.github.io/portfolio/"><img src="https://img.shields.io/badge/My_Portfolio-Click_Here-teal?style=flat-square&logo=opsgenie&logoColor=white" /></a>
+  <a href="[https://MarcCode2003.github.io/portfolio/](https://marccode2003.github.io/portfolio-v2/)"><img src="https://img.shields.io/badge/My_Portfolio-Click_Here-teal?style=flat-square&logo=opsgenie&logoColor=white" /></a>
 </p>
 
 <p align="center">
