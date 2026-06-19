@@ -21,10 +21,10 @@
 ---
 
 ### 📱 Socials and How to Reach Me:
-- [![Facebook](https://img.shields.io/badge/Facebook-Marc%20Samuel%20Canales-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/maaku0223)
-- [![Gmail](https://img.shields.io/badge/Gmail-marcsamuelcanales.26%40gmail.com-%23EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:marcsamuelcanales.26@gmail.com)
-- [![Instagram](https://img.shields.io/badge/Instagram-maaku0223-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/maaku0223/)
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Marc%20Samuel%20Canales-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marc-samuel-canales-b87944317/)
+- [![Facebook](https://img.shields.io/badge/Facebook%20|%20Click%20Here-Marc%20Samuel%20Canales-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/maaku0223)
+- [![Gmail](https://img.shields.io/badge/Gmail%20|%20Click%20Here-marcsamuelcanales.26%40gmail.com-%23EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:marcsamuelcanales.26@gmail.com)
+- [![Instagram](https://img.shields.io/badge/Instagram%20|%20Click%20Here-maaku0223-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/maaku0223/)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn%20|%20Click%20Here-Marc%20Samuel%20Canales-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marc-samuel-canales-b87944317/)
 
 ---
 
