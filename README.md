@@ -32,18 +32,16 @@
 
 | Layer | Technologies & Tools |
 | :--- | :--- |
-| **Frontend Interfacing** | `HTML5` `CSS3` `JavaScript` `TypeScript` `Svelte / SvelteKit` `Tailwind CSS` `Bootstrap` |
-| **Backend & Core Logic** | `SQL (MySQL)` `Python` `PHP` `Java` |
-| **Cloud, DevOps & IDEs** | `Git / GitHub Workflows` `VS Code` `PyCharm` `Eclipse` `NetBeans` |
-| **Creative Systems** | `Figma` `Canva` `Adobe Photoshop` `Photopea` `CapCut` |
-| **Other Engines** | `Godot Engine` `WordPress Deployment` |
-| **Office Productivity** | `Microsoft Word` `Microsoft Excel` `Microsoft PowerPoint` |
-
+| **Data Analytics & Reporting** | `Microsoft Excel (Data Cleaning, Pivot Tables, Visualization, XLOOKUP)` `Power BI` `Tableau` `Looker Studio` |
+| **Database Management** | `MySQL` `Relational Databases (SQL)` |
+| **Backend & Infrastructure** | `Python` `FastAPI` `PHP` `AWS` `Linux` |
+| **Frontend & Web** | `HTML5` `CSS3` `JavaScript` `Svelte` `Tailwind CSS` `Bootstrap` |
+| **Tools & Collaboration** | `Git / GitHub` `Figma` |
 ---
 
 ### ⚡ Current Status & Focus
 
-- 💼 **Job Seeking:** Open for Full-Time Software Engineering, Data Analyst, Backend Developer, or Full-Stack roles.
+- 💼 **Job Seeking:** Open for any Full-Time entry level Software Engineering, Data Analyst, Data Engineer, Backend Developer, Backend Engineer, or Full-Stack roles.
 - 🔍 **Industry Focus:** Looking to connect with companies working on high-availability backend solutions and cloud architecture.
 - 💬 **Open for Discussions:** Feel free to reach out to talk about **Web Development, Database Management, Cybersecurity**, or **UI/UX Design**.
   
